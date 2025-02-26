@@ -2,7 +2,7 @@
 from exp import *
 from draw import *
 
-batchsize=1
+batchsize=100
 exp(batchsize)
 draw()
 print("finished!")
